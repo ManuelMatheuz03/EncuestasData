@@ -1,0 +1,26 @@
+C:\Users\Aprendiz Sena\Documents\GitHub\Encuestas\Encuestas\Encuestas\bin\Debug\netstandard2.0\Encuestas.deps.json
+C:\Users\Aprendiz Sena\Documents\GitHub\Encuestas\Encuestas\Encuestas\bin\Debug\netstandard2.0\Encuestas.dll
+C:\Users\Aprendiz Sena\Documents\GitHub\Encuestas\Encuestas\Encuestas\bin\Debug\netstandard2.0\Encuestas.pdb
+C:\Users\Aprendiz Sena\Documents\GitHub\Encuestas\Encuestas\Encuestas\obj\Debug\netstandard2.0\Encuestas.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz Sena\Documents\GitHub\Encuestas\Encuestas\Encuestas\obj\Debug\netstandard2.0\Encuestas.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz Sena\Documents\GitHub\Encuestas\Encuestas\Encuestas\obj\Debug\netstandard2.0\Encuestas.App.xaml.g.cs
+C:\Users\Aprendiz Sena\Documents\GitHub\Encuestas\Encuestas\Encuestas\obj\Debug\netstandard2.0\Encuestas.DetallesEncuestasView.xaml.g.cs
+C:\Users\Aprendiz Sena\Documents\GitHub\Encuestas\Encuestas\Encuestas\obj\Debug\netstandard2.0\Encuestas.EncuestasView.xaml.g.cs
+C:\Users\Aprendiz Sena\Documents\GitHub\Encuestas\Encuestas\Encuestas\obj\Debug\netstandard2.0\Encuestas.MainPage.xaml.g.cs
+C:\Users\Aprendiz Sena\Documents\GitHub\Encuestas\Encuestas\Encuestas\obj\Debug\netstandard2.0\Encuestas.AssemblyInfoInputs.cache
+C:\Users\Aprendiz Sena\Documents\GitHub\Encuestas\Encuestas\Encuestas\obj\Debug\netstandard2.0\Encuestas.AssemblyInfo.cs
+C:\Users\Aprendiz Sena\Documents\GitHub\Encuestas\Encuestas\Encuestas\obj\Debug\netstandard2.0\Encuestas.dll
+C:\Users\Aprendiz Sena\Documents\GitHub\Encuestas\Encuestas\Encuestas\obj\Debug\netstandard2.0\Encuestas.pdb
+C:\Users\user\source\repos\Encuestas\Encuestas\Encuestas\bin\Debug\netstandard2.0\Encuestas.deps.json
+C:\Users\user\source\repos\Encuestas\Encuestas\Encuestas\bin\Debug\netstandard2.0\Encuestas.dll
+C:\Users\user\source\repos\Encuestas\Encuestas\Encuestas\bin\Debug\netstandard2.0\Encuestas.pdb
+C:\Users\user\source\repos\Encuestas\Encuestas\Encuestas\obj\Debug\netstandard2.0\Encuestas.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Encuestas\Encuestas\Encuestas\obj\Debug\netstandard2.0\Encuestas.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Encuestas\Encuestas\Encuestas\obj\Debug\netstandard2.0\Encuestas.App.xaml.g.cs
+C:\Users\user\source\repos\Encuestas\Encuestas\Encuestas\obj\Debug\netstandard2.0\Encuestas.DetallesEncuestasView.xaml.g.cs
+C:\Users\user\source\repos\Encuestas\Encuestas\Encuestas\obj\Debug\netstandard2.0\Encuestas.EncuestasView.xaml.g.cs
+C:\Users\user\source\repos\Encuestas\Encuestas\Encuestas\obj\Debug\netstandard2.0\Encuestas.MainPage.xaml.g.cs
+C:\Users\user\source\repos\Encuestas\Encuestas\Encuestas\obj\Debug\netstandard2.0\Encuestas.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Encuestas\Encuestas\Encuestas\obj\Debug\netstandard2.0\Encuestas.AssemblyInfo.cs
+C:\Users\user\source\repos\Encuestas\Encuestas\Encuestas\obj\Debug\netstandard2.0\Encuestas.dll
+C:\Users\user\source\repos\Encuestas\Encuestas\Encuestas\obj\Debug\netstandard2.0\Encuestas.pdb
